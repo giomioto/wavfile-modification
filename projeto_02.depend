@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1698619463 source:c:\users\pc\desktop\utfpr\1_periodo\fundamentos_de_programacao\projeto_02\t2-2603403-2603454.c
+	"trabalho2.h"
+	"wavfile.h"
+
+1695736874 c:\users\pc\desktop\utfpr\1_periodo\fundamentos_de_programacao\projeto_02\trabalho2.h
+
+1651856764 c:\users\pc\desktop\utfpr\1_periodo\fundamentos_de_programacao\projeto_02\wavfile.h
+	<stdio.h>
+
+1651853006 source:c:\users\pc\desktop\utfpr\1_periodo\fundamentos_de_programacao\projeto_02\wavfile.c
+	<string.h>
+	<stdlib.h>
+	<limits.h>
+	"wavfile.h"
+
+1698005345 source:c:\users\pc\desktop\utfpr\1_periodo\fundamentos_de_programacao\projeto_02\teste1_ganho.c
+	<stdlib.h>
+	"wavfile.h"
+	"trabalho2.h"
+
+1695738022 source:c:\users\pc\desktop\utfpr\1_periodo\fundamentos_de_programacao\projeto_02\teste2_3clipping.c
+	<stdlib.h>
+	"wavfile.h"
+	"trabalho2.h"
+
+1695738078 source:c:\users\pc\desktop\utfpr\1_periodo\fundamentos_de_programacao\projeto_02\teste2_4_limita.c
+	<stdlib.h>
+	"wavfile.h"
+	"trabalho2.h"
+
+1698449689 source:c:\users\pc\desktop\utfpr\1_periodo\fundamentos_de_programacao\projeto_02\teste5_quadrada.c
+	<stdlib.h>
+	"wavfile.h"
+	"trabalho2.h"
+
